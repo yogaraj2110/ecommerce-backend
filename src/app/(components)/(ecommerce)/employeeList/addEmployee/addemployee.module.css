@@ -1,0 +1,23 @@
+.textLable{
+    float: left;
+    font-size: 18px;
+
+}
+.form-control
+{
+    height: 50px;
+    margin-bottom: 14px;
+}
+.card{
+ width: 30%;
+}
+.backgrdBorder{
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 30px;
+  
+}
+.butnAlign{
+    color: white !important;
+    background-color: #5E14A5 !important;
+}

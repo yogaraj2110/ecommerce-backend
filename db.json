@@ -1,0 +1,220 @@
+{
+    "barChartItems": [
+        {
+            "id": 1,
+            "itemName": "Jan",
+            "itemCount": 24,
+            "year": 2024
+        },
+        {
+            "id": 2,
+            "itemName": "Feb",
+            "itemCount": 64,
+            "year": 2024
+        },
+        {
+            "id": 3,
+            "itemName": "Mar",
+            "itemCount": 180,
+            "year": 2024
+        },
+        {
+            "id": 4,
+            "itemName": "Apr",
+            "itemCount": 119,
+            "year": 2024
+        },
+        {
+            "id": 5,
+            "itemName": "May",
+            "itemCount": 76,
+            "year": 2024
+        },
+        {
+            "id": 6,
+            "itemName": "June",
+            "itemCount": 80,
+            "year": 2024
+        },
+        {
+            "id": 7,
+            "itemName": "july",
+            "itemCount": 88,
+            "year": 2024
+        },
+        {
+            "id": 8,
+            "itemName": "Aug",
+            "itemCount": 160,
+            "year": 2024
+        },
+        {
+            "id": 9,
+            "itemName": "Sep",
+            "itemCount": 30,
+            "year": 2024
+        },
+        {
+            "id": 10,
+            "itemName": "Oct",
+            "itemCount": 230,
+            "year": 2024
+        },
+        {
+            "id": 11,
+            "itemName": "Nov",
+            "itemCount": 53,
+            "year": 2024
+        },
+        {
+            "id": 12,
+            "itemName": "Dec",
+            "itemCount": 21,
+            "year": 2024
+        },
+        {
+            "id": 13,
+            "itemName": "Jan",
+            "itemCount": 400,
+            "year": 2023
+        },
+        {
+            "id": 14,
+            "itemName": "Feb",
+            "itemCount": 90,
+            "year": 2023
+        },
+        {
+            "id": 15,
+            "itemName": "Mar",
+            "itemCount": 180,
+            "year": 2023
+        },
+        {
+            "id": 16,
+            "itemName": "Apr",
+            "itemCount": 90,
+            "year": 2023
+        },
+        {
+            "id": 17,
+            "itemName": "May",
+            "itemCount": 60,
+            "year": 2023
+        },
+        {
+            "id": 18,
+            "itemName": "June",
+            "itemCount": 30,
+            "year": 2023
+        },
+        {
+            "id": 19,
+            "itemName": "july",
+            "itemCount": 145,
+            "year": 2024
+        },
+        {
+            "id": 20,
+            "itemName": "Aug",
+            "itemCount":80,
+            "year": 2023
+        },
+        {
+            "id": 21,
+            "itemName": "Sep",
+            "itemCount": 330,
+            "year": 2023
+        },
+        {
+            "id": 22,
+            "itemName": "Oct",
+            "itemCount": 20,
+            "year": 2024
+        },
+        {
+            "id": 23,
+            "itemName": "Nov",
+            "itemCount": 110,
+            "year": 2023
+        },
+        {
+            "id": 24,
+            "itemName": "Dec",
+            "itemCount": 23,
+            "year": 2023
+        },
+        {
+            "id": 25,
+            "itemName": "Jan",
+            "itemCount": 100,
+            "year": 2022
+        },
+        {
+            "id": 26,
+            "itemName": "Feb",
+            "itemCount": 200,
+            "year": 2022
+        },
+        {
+            "id": 27,
+            "itemName": "Mar",
+            "itemCount": 300,
+            "year": 2022
+        },
+        {
+            "id": 28,
+            "itemName": "Apr",
+            "itemCount": 400,
+            "year": 2022
+        },
+        {
+            "id": 29,
+            "itemName": "May",
+            "itemCount": 500,
+            "year": 2022
+        },
+        {
+            "id": 30,
+            "itemName": "June",
+            "itemCount": 600,
+            "year": 2022
+        },
+        {
+            "id": 31,
+            "itemName": "july",
+            "itemCount": 700,
+            "year": 2024
+        },
+        {
+            "id": 32,
+            "itemName": "Aug",
+            "itemCount":800,
+            "year": 2022
+        },
+        {
+            "id": 33,
+            "itemName": "Sep",
+            "itemCount": 900,
+            "year": 2022
+        },
+        {
+            "id": 34,
+            "itemName": "Oct",
+            "itemCount": 1000,
+            "year": 2024
+        },
+        {
+            "id": 35,
+            "itemName": "Nov",
+            "itemCount": 1100,
+            "year": 2022
+        },
+        {
+            "id": 36,
+            "itemName": "Dec",
+            "itemCount": 1200,
+            "year": 2022
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+.backgroundContainer {
+    background-image: url('/loginBg-2.png') !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important; 
+    background-position: center !important; 
+    height: 100vh !important;
+    width: 100% !important; 
+  }
+  
+  .loginGrid {
+    height: 100%;
+  }
+
+.loginBox {
+    width: 500px;
+    padding: 20px;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.submitButton {
+    padding: 10px 30px 10px 30px !important; 
+    background-color: #5E14A5 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    transition: background-color 0.3s ease !important;
+    margin-left: 12rem !important;
+    
+}
+
+.submitButton:hover {
+    background: #5E14A5 !important;
+}
+/* .butnAlign{
+    color: white !important;
+    background-color: #5E14A5 !important;
+} */
