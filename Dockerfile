@@ -13,7 +13,7 @@ RUN npm install --force
 COPY . .
 
 # Expose the port that the Next.js app will run on (default is 3000)
-EXPOSE 3001
+EXPOSE 3000
 
 # Run the Next.js app in development mode
 CMD ["npm", "run", "dev"]
